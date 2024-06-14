@@ -1,2 +1,3 @@
 # radsait
-.net c# sait projects
+rapid application development
+microsoft asp .net core c# sait projects
