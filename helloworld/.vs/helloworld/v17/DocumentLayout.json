@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C71A57-CA1D-4DFC-82F2-9A61B20D2302}|helloworld.csproj|c:\\users\\skye waddell\\documents\\github\\radsait\\helloworld\\frmhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C71A57-CA1D-4DFC-82F2-9A61B20D2302}|helloworld.csproj|solutionrelative:frmhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C71A57-CA1D-4DFC-82F2-9A61B20D2302}|helloworld.csproj|c:\\users\\skye waddell\\documents\\github\\radsait\\helloworld\\frmhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C71A57-CA1D-4DFC-82F2-9A61B20D2302}|helloworld.csproj|solutionrelative:frmhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C71A57-CA1D-4DFC-82F2-9A61B20D2302}|helloworld.csproj|c:\\users\\skye waddell\\documents\\github\\radsait\\helloworld\\frmhello.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C71A57-CA1D-4DFC-82F2-9A61B20D2302}|helloworld.csproj|solutionrelative:frmhello.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHello.cs",
+              "DocumentMoniker": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\frmHello.cs",
+              "RelativeDocumentMoniker": "frmHello.cs",
+              "ToolTip": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\frmHello.cs",
+              "RelativeToolTip": "frmHello.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:11:34.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHello.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\frmHello.cs",
+              "RelativeDocumentMoniker": "frmHello.cs",
+              "ToolTip": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\frmHello.cs [Design]",
+              "RelativeToolTip": "frmHello.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:10:08.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHello.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\frmHello.Designer.cs",
+              "RelativeDocumentMoniker": "frmHello.Designer.cs",
+              "ToolTip": "C:\\Users\\skye waddell\\Documents\\github\\radsait\\helloworld\\frmHello.Designer.cs",
+              "RelativeToolTip": "frmHello.Designer.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAawJUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:09:07.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
